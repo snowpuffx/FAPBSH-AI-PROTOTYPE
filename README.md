@@ -1,5 +1,5 @@
 # FAPBSH-AI-PROTOTYPE
-# FAPBSH AI IDE: analysis and verification upgrade
+# analysis and verification upgrade
 
 ## How to run
 
